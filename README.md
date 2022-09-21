@@ -8,4 +8,4 @@ using our low knoowledge of the programming language Python and our basic unders
 We've learnt a lot through the six month, such as planning work sessions, using the GIT tool, working as a team, using advanced programming technics compared to what
 we knew before starting
 
-There is an online version of this game also
+There is also an online version of this game
