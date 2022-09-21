@@ -1,0 +1,5 @@
+noise==1.2.2
+pathfinding==1.0.1
+pygame==2.0.3
+
+# pip install -r requirements.txt in README
